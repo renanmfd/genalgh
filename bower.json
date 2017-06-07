@@ -1,0 +1,23 @@
+{
+  "name": "genalgh",
+  "description": "Genectic algorithms simulation",
+  "main": "index.html",
+  "authors": [
+    "Renan Dias"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "genetics",
+    "algorithms",
+    "renanmfd"
+  ],
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "genalgh",
+  "version": "1.0.0",
+  "description": "Genectic algorithms simulation",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/renanmfd/genalgh.git"
+  },
+  "keywords": [
+    "genetics",
+    "algorithms",
+    "renanmfd"
+  ],
+  "author": "Renan Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanmfd/genalgh/issues"
+  },
+  "homepage": "https://github.com/renanmfd/genalgh#readme"
+}
